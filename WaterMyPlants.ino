@@ -1,6 +1,7 @@
-// Code can be downloaded to a ESP32
+// Code can be downloaded to a HUZZAH32 ESP32 WiFi® Development Feather Board
+// https://www.mouser.sg/new/adafruit/adafruit-huzzah32-esp32-dev-boards/
 // ESP32,  developed by Espressif Systems,  is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi
-// Assumes there are 3 pumps
+// This code assumes there are 3 pumps connected
 
 #include <EEPROM.h>
 #include <NTPClient.h>
